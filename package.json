@@ -1,0 +1,24 @@
+{
+  "name": "rand-message-str",
+  "version": "1.0.0",
+  "description": "Random string message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seObando19/rand-message-str.git"
+  },
+  "keywords": [],
+  "author": "Sebastian Obando <sebastiano-10@hotmail>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seObando19/rand-message-str/issues"
+  },
+  "homepage": "https://github.com/seObando19/rand-message-str#readme",
+  "bin": {
+    "rand-message-str": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
